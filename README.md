@@ -1,12 +1,25 @@
-# myapp
+# app Jogo da Velha
 
-A new Flutter project.
+Jogo da Velha 🕹️
 
-## Getting Started
+Este é um aplicativo Flutter para o clássico jogo da velha (Tic-Tac-Toe), com suporte para jogo entre dois jogadores ou contra a máquina.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Recursos
+Duas modalidades de jogo :
+Modo jogador vs jogador.
+Modo jogador vs computador (com movimentos gerados aleatoriamente).
+Interface intuitiva :
+Design responsivo e interativo.
+Indicação visual para o jogador atual.
+Lógica de jogo robusta :
+Detecção automática de vitórias ou empate.
+Reinício rápido da partida com um botão dedicado.
+Animação integrada :
+Indicador de "pensando" ao jogar contra a máquina.
+Tecnologias Utilizadas
+Linguagem : Dart
+Estrutura : Flutter
+Widget principal : GridViewpara estrutura do tabuleiro.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
